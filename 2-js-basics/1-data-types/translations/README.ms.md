@@ -4,7 +4,7 @@
 > Sketchnote by [Tomomi Imura](https://twitter.com/girlie_mac)
 
 ## Kuiz Pra Kuliah
-[Kuiz Pra Kuliah](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/7)
+[Kuiz Pra Kuliah](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/7)
 
 Pelajaran ini merangkumi asas-asas JavaScript, bahasa yang menyediakan interaktiviti di web.
 
@@ -111,18 +111,18 @@ Pada bahagian sebelumnya, nilai `myVariable` adalah jenis data nombor.
 
 `let myVariable = 123;`
 
-Pemboleh ubah boleh menyimpan semua jenis nombor, termasuk nombor perpuluhan atau nombor negatif. Nombor juga boleh digunakan dengan pengendali aritmetik, yang terdapat dalam [bahagian seterusnya](#pengendali).
+Pemboleh ubah boleh menyimpan semua jenis nombor, termasuk nombor perpuluhan atau nombor negatif. Nombor juga boleh digunakan dengan pengendali aritmetik, yang terdapat dalam [bahagian seterusnya](#Pengendali-Aritmetik).
 
 ### Pengendali Aritmetik
 
 Terdapat beberapa jenis operator yang boleh digunakan semasa menjalankan fungsi aritmetik, dan ada yang disenaraikan di sini:
 
-| Simbol | Penerangan                                                              | Contoh                          |
-| ------ | ------------------------------------------------------------------------ | -------------------------------- |
-| `+`    | **Penambahan**: Mengira jumlah dua nombor                          | `1 + 2 // jawapan ialah 3`   |
-| `-`    | **Penolakan**: Mengira perbezaan dua nombor                | `1 - 2 // jawapan ialah -1`  |
-| `*`    | **Pendaraban**: Mengira hasil dua nombor                | `1 * 2 // jawapan ialah 2`   |
-| `/`    | **Pembahagian**: Mengira hasil bagi dua nombor                     | `1 / 2 //jawapan ialah 0.5` |
+| Simbol | Penerangan                                         | Contoh                      |
+| ------ | -------------------------------------------------- | --------------------------- |
+| `+`    | **Penambahan**: Mengira jumlah dua nombor          | `1 + 2 // jawapan ialah 3`  |
+| `-`    | **Penolakan**: Mengira perbezaan dua nombor        | `1 - 2 // jawapan ialah -1` |
+| `*`    | **Pendaraban**: Mengira hasil dua nombor           | `1 * 2 // jawapan ialah 2`  |
+| `/`    | **Pembahagian**: Mengira hasil bagi dua nombor     | `1 / 2 //jawapan ialah 0.5` |
 | `%`    | **Baki**: Mengira baki dari pembahagian dua nombor | `1 % 2 //jawapan ialah 1`   |
 
 ✅ Cubalah! Cuba operasi aritmetik di konsol penyemak imbas anda. Adakah hasilnya mengejutkan anda?
@@ -171,7 +171,7 @@ Anda boleh mencapai matlamat pemformatan anda dengan mana-mana kaedah, tetapi te
 
 ### Booleans
 
-Booleans boleh hanya dua nilai: `benar` atau `salah`. Booleans dapat membantu membuat keputusan mengenai garis kod mana yang harus dijalankan apabila syarat tertentu dipenuhi. Dalam banyak kes, [pengendali](#pengendali) membantu menetapkan nilai Boolean dan anda sering akan melihat dan menulis pemboleh ubah yang dimulakan atau nilainya dikemas kini dengan operator.
+Booleans boleh hanya dua nilai: `benar` atau `salah`. Booleans dapat membantu membuat keputusan mengenai garis kod mana yang harus dijalankan apabila syarat tertentu dipenuhi. Dalam banyak kes, [pengendali](#Pengendali-Aritmetik) membantu menetapkan nilai Boolean dan anda sering akan melihat dan menulis pemboleh ubah yang dimulakan atau nilainya dikemas kini dengan operator.
 
 - `let myTrueBool = betul`
 - `let myFalseBool = salah`
@@ -185,7 +185,7 @@ Booleans boleh hanya dua nilai: `benar` atau `salah`. Booleans dapat membantu me
 JavaScript terkenal kerana kaedahnya yang mengagumkan dalam mengendalikan jenis data sesekali. Lakukan sedikit kajian mengenai 'gotchas' ini. Contohnya: kepekaan kes boleh menggigit! Cubalah ini di konsol anda: `let age = 1; biarkan Umur = 2; age == Age` (menyelesaikan `false` - mengapa?). Apa lagi gotchas yang anda dapati?
 
 ## Kuiz Pasca Kuliah
-[Kuiz Pasca Kuliah](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/8)
+[Kuiz Pasca Kuliah](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/8)
 
 ## Mengkaji dan belajar sendiri
 

@@ -6,7 +6,7 @@
 
 ## Kuis Pra-Kuliah
 
-[Kuis pra-Kuliah](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/7?loc=id)
+[Kuis pra-Kuliah](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/7?loc=id)
 
 Pelajaran ini mencakup dasar-dasar JavaScript, bahasa yang menyediakan interaktivitas di web.
 
@@ -173,7 +173,7 @@ Anda dapat mencapai tujuan pemformatan Anda dengan salah satu metode, tetapi tem
 
 ### Boolean
 
-Boolean hanya dapat berupa dua nilai: `true` atau `false`. Boolean dapat membantu membuat keputusan tentang baris kode mana yang harus dijalankan ketika kondisi tertentu terpenuhi. Dalam banyak kasus, [operator](#operator) membantu pengaturan nilai Boolean dan Anda akan sering melihat dan menulis variabel yang diinisialisasi atau nilainya diperbarui dengan operator.
+Boolean hanya dapat berupa dua nilai: `true` atau `false`. Boolean dapat membantu membuat keputusan tentang baris kode mana yang harus dijalankan ketika kondisi tertentu terpenuhi. Dalam banyak kasus, [operator](#Operator-Aritmatika) membantu pengaturan nilai Boolean dan Anda akan sering melihat dan menulis variabel yang diinisialisasi atau nilainya diperbarui dengan operator.
 
 - `let myTrueBool = true`
 - `let myFalseBool = false`
@@ -188,7 +188,7 @@ JavaScript terkenal karena cara yang mengejutkan dalam menangani tipe data pada 
 
 ## Kuis Pasca-Kuliah
 
-[Kuis pasca-kuliah](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/8?loc=id)
+[Kuis pasca-kuliah](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/8?loc=id)
 
 ## Review & Belajar Mandiri
 

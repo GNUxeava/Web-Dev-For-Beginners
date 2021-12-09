@@ -1,6 +1,6 @@
 # Proyecto de extensión del navegador, parte 2: llamar a una API, usar almacenamiento local
 
-## [Pre-lecture prueba](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/25)
+## [Pre-lecture prueba](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/25)
 
 ### Introducción:
 
@@ -10,7 +10,7 @@ En esta lección, llamará a una API enviando el formulario de la extensión de 
 
 ### 1. Configure los elementos para manipular en la extensión:
 
-En este momento, ha creado el HTML para el formulario y los resultados `<div>` para la extensión de su navegador. De ahora en adelante, necesitará trabajar en el archivo `/src/index.js` y construir su extensión poco a poco. Consulte la [lección anterior](../about-browsers/ README.md) sobre cómo configurar su proyecto y el proceso de compilación.
+En este momento, ha creado el HTML para el formulario y los resultados `<div>` para la extensión de su navegador. De ahora en adelante, necesitará trabajar en el archivo `/src/index.js` y construir su extensión poco a poco. Consulte la [lección anterior](../../1-about-browsers/translations/README.es.md) sobre cómo configurar su proyecto y el proceso de compilación.
 
 Trabajando en su archivo `index.js`, comience creando algunas variables `const` para contener los valores asociados con varios campos:
 
@@ -202,7 +202,7 @@ Esta es una gran función. ¿Que está pasando aqui?
 🚀 Desafío: hemos discutido varios tipos de API hasta ahora en estas lecciones. Elija una API web e investigue en profundidad lo que ofrece. Por ejemplo, eche un vistazo a las API disponibles en los navegadores, como la [API HTML de arrastrar y soltar](https://developer.mozilla.org/docs/Web/API/HTML_Drag_and_Drop_API). En tu opinión, ¿qué hace que una API sea excelente?
 
 
-## [Post-lecture prueba](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/26)
+## [Post-lecture prueba](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/26)
 
 ## Revisión y autoestudio
 

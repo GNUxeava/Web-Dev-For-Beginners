@@ -2,7 +2,7 @@
 
 ## 課前測驗
 
-[課前測驗](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/41?loc=zh_tw)
+[課前測驗](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/41?loc=zh_tw)
 
 ### 大綱
 
@@ -213,7 +213,7 @@ function updateRoute() {
 
 ```js
 function navigate(path) {
-  window.history.pushState({}, path, window.location.origin + path);
+  window.history.pushState({}, path, path);
   updateRoute();
 }
 ```
@@ -248,9 +248,9 @@ function onLinkClick(event) {
 現在我們完成應用程式的網頁訪問系統，在 HTML 檔的 *Login* 與 *Logout* 連結加入此函式。
 
 ```html
-<a href="/dashboard" onclick="onLinkClick()">Login</a>
+<a href="/dashboard" onclick="onLinkClick(event)">Login</a>
 ...
-<a href="/login" onclick="onLinkClick()">Logout</a>
+<a href="/login" onclick="onLinkClick(event)">Logout</a>
 ```
 
 使用 [`onclick`](https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers/onclick) 屬性會將 `click` 事件連接到 JavaScript 程式碼中，這邊會再呼叫函式 `navigate()`。
@@ -296,7 +296,7 @@ updateRoute();
 
 ## 課後測驗
 
-[課後測驗](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/42?loc=zh_tw)
+[課後測驗](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/42?loc=zh_tw)
 
 ## 複習與自學
 
