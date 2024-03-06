@@ -1,11 +1,11 @@
-# Projet Terrarium Partie 3 : Manipulation DOM et une fermeture
+# Projet Terrarium Partie 3 : Manipulation du DOM et notion de closure (fermeture)
 
 ![DOM et une fermeture](/sketchnotes/webdev101-js.png)
 > Sketchnote par [Tomomi Imura](https://twitter.com/girlie_mac)
 
 ## Quiz préalable
 
-[Quiz préalable](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/19?loc=fr)
+[Quiz préalable](https://ashy-river-0debb7803.1.azurestaticapps.net/quiz/19?loc=fr)
 
 ### Introduction
 
@@ -201,7 +201,7 @@ Ajoutez un nouveau gestionnaire d'événements à votre fermeture pour faire que
 
 ## Quiz de validation des connaissances
 
-[Quiz de validation des connaissances](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/20?loc=fr)
+[Quiz de validation des connaissances](https://ashy-river-0debb7803.1.azurestaticapps.net/quiz/20?loc=fr)
 
 ## Examen et étude personnelle
 
